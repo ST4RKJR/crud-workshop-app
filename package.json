@@ -15,11 +15,15 @@
     "Contacts",
     "Manager"
   ],
-  "type":"commonjs",
+  "type": "commonjs",
   "author": "Sahil Singh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ST4RKJR/crud-workshop-app/issues"
   },
-  "homepage": "https://github.com/ST4RKJR/crud-workshop-app#readme"
+  "homepage": "https://github.com/ST4RKJR/crud-workshop-app#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "mysql2": "^3.14.4"
+  }
 }
