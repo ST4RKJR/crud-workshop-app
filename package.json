@@ -1,0 +1,25 @@
+{
+  "name": "crud-workshop-app",
+  "version": "1.0.0",
+  "description": "we are developing a contacts app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ST4RKJR/crud-workshop-app.git"
+  },
+  "keywords": [
+    "Smart",
+    "Contacts",
+    "Manager"
+  ],
+  "type":"commonjs",
+  "author": "Sahil Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ST4RKJR/crud-workshop-app/issues"
+  },
+  "homepage": "https://github.com/ST4RKJR/crud-workshop-app#readme"
+}
